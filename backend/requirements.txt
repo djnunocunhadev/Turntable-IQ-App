@@ -1,0 +1,14 @@
+# Core dependencies
+fastapi>=0.100.0
+uvicorn>=0.22.0
+sqlalchemy>=2.0.0
+pydantic>=2.0.0
+python-dotenv==1.0.0
+cryptography>=41.0.3
+pyrekordbox==0.4.0
+
+# API and async
+httpx>=0.24.0
+
+# Utilities
+sqlcipher3-binary>=0.5.0
